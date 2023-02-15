@@ -1,5 +1,7 @@
 # adonisjstests
 Dinara bootcamp adonisjs course tests
+Johan Sebastian Romero Diaz
+jsromerod@unal.edu.co
 
 organizacion de carpetas
 
